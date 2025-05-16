@@ -6,13 +6,13 @@ import homeImage from "../../assets/homeImage.jpg"; // Replace with your actual 
 
 // Import your 8 images for the grid (replace with your actual image paths)
 import img1 from "../../assets/gallery/gallery_image1.jpg";
-import img2 from "../../assets/gallery/gallery_image2.jpg";
-import img3 from "../../assets/gallery/gallery_image3.jpg";
-import img4 from "../../assets/gallery/gallery_image4.jpg";
-import img5 from "../../assets/gallery/gallery_image5.jpg";
-import img6 from "../../assets/gallery/gallery_image6.jpg";
-import img7 from "../../assets/gallery/gallery_image7.jpg";
-import img8 from "../../assets/gallery/gallery_image8.jpg";
+import img2 from "../../assets/gallery/gallery_image1.jpg";
+import img3 from "../../assets/gallery/gallery_image1.jpg";
+import img4 from "../../assets/gallery/gallery_image1.jpg";
+import img5 from "../../assets/gallery/gallery_image1.jpg";
+import img6 from "../../assets/gallery/gallery_image1.jpg";
+import img7 from "../../assets/gallery/gallery_image1.jpg";
+import img8 from "../../assets/gallery/gallery_image1.jpg";
 
 const Home = () => {
   return (

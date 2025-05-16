@@ -4,8 +4,8 @@ import Header from '../../components/Header';
 import './Story.css';
 
 import image1 from '../../assets/story/story_image1.jpg';
-import image2 from '../../assets/story/story_image2.jpg';
-import image3 from '../../assets/story/story_image3.jpg';
+import image2 from '../../assets/story/story_image1.jpg';
+import image3 from '../../assets/story/story_image1.jpg';
 
 const Story = () => {
   return (
