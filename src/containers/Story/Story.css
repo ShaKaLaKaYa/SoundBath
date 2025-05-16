@@ -1,0 +1,58 @@
+.story-container {
+  padding: 40px;
+  font-family: 'Georgia', serif;
+  max-width: 1000px;
+  margin: 0 auto;
+  color: #444;
+}
+
+.intro-text {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.intro-text h2 {
+  font-size: 26px;
+  color: #6d4c41;
+  margin-bottom: 20px;
+}
+
+.image-text-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  margin-bottom: 60px;
+}
+
+/* .image-text-section.reverse {
+  flex-direction: row-reverse !important;
+} */
+
+.about-image {
+  width: 45%;
+  border-radius: 10px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.text-content {
+  flex: 1;
+}
+
+.text-content h3 {
+  font-size: 22px;
+  color: #5d4037;
+  margin-bottom: 15px;
+}
+
+.text-content p,
+.text-content ul {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 12px;
+}
+
+.text-content ul {
+  padding-left: 20px;
+  list-style-type: disc;
+}
