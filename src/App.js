@@ -4,7 +4,7 @@ import Story from './containers/Story';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/BathSound">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/story" element={<Story />} />
