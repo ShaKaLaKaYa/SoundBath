@@ -6,8 +6,8 @@ const Header = () => {
   return (
     <header className="header">
       <div className="logo">
-        <h1>ALIGN WITH KEIRA</h1>
-        <p>Sound. Mindfulness.</p>
+        <h1>Rao's Sound Healing</h1>
+        <p>Sound Bath</p>
       </div>
       <nav className="nav">
         <Link to="/">Home</Link>

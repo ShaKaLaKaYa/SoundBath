@@ -20,7 +20,7 @@ const Home = () => {
       <Header />
       <main className="home-container">
         <div className="hero-image">
-          <img src={homeImage} alt="Bella with sound bowls" />
+          <img src={homeImage} alt="Keira with sound bowls" />
         </div>
 
         <section className="intro-text">
