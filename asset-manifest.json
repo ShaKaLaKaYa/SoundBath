@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SoundBath/static/css/main.9135783f.css",
-    "main.js": "/SoundBath/static/js/main.8d78f5ef.js",
+    "main.js": "/SoundBath/static/js/main.cff5efbe.js",
     "static/js/453.ed3810f9.chunk.js": "/SoundBath/static/js/453.ed3810f9.chunk.js",
     "static/media/gallery_image1.jpg": "/SoundBath/static/media/gallery_image1.70b5b26ae28d66f1e1fa.jpg",
     "static/media/story_image1.jpg": "/SoundBath/static/media/story_image1.70b5b26ae28d66f1e1fa.jpg",
@@ -9,11 +9,11 @@
     "static/media/logo.png": "/SoundBath/static/media/logo.fc5f00ab6a5b30ddf429.png",
     "index.html": "/SoundBath/index.html",
     "main.9135783f.css.map": "/SoundBath/static/css/main.9135783f.css.map",
-    "main.8d78f5ef.js.map": "/SoundBath/static/js/main.8d78f5ef.js.map",
+    "main.cff5efbe.js.map": "/SoundBath/static/js/main.cff5efbe.js.map",
     "453.ed3810f9.chunk.js.map": "/SoundBath/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9135783f.css",
-    "static/js/main.8d78f5ef.js"
+    "static/js/main.cff5efbe.js"
   ]
 }
