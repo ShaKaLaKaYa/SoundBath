@@ -7,7 +7,7 @@ const Header = () => {
     <header className="header">
       <div className="logo">
         <h1>Rao's Sound Healing</h1>
-        <p>Sound Bath</p>
+        <p>Premier Sound Bath Experience</p>
       </div>
       <nav className="nav">
         <Link to="/">Home</Link>
