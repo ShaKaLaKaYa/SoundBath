@@ -52,10 +52,10 @@ const Home = () => {
             )}
           </div>
 
-          <div className="buttons">
+          {/* <div className="buttons">
             <button className="primary-button">Book Your Experience</button>
             <button className="secondary-button">Submit an Inquiry</button>
-          </div>
+          </div> */}
         </section>
       </main>
       <Footer />

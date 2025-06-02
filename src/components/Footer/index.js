@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Footer.css";
-import logo from '../../assets/logo.png';
+import logo from '../../assets/logo.jpg';
 
 // Placeholder icons using react-icons (you can replace with your own SVGs or images)
 import { FaInstagram, FaFacebookF, FaYoutube, FaTiktok, FaSpotify, FaMusic } from "react-icons/fa";
@@ -24,10 +24,10 @@ const Footer = () => {
   return (
     <footer>
       <section className="newsletter-section">
-        <h5>WEEKLY REFLECTIONS FOR A</h5>
-        <h2>MINDFUL LIFE</h2>
+        <h5>Start your</h5>
+        <h2>MINDFUL JOURNEY</h2>
         <p>
-          Every Monday and Thursday, receive mindfulness quotes to inspire your conscious journey and deepen your connection to yourself.
+          through gentle reflections and a path of presence, clarity, and connection that brings you closer to yourself.
         </p>
 
         {/* <form onSubmit={handleSubmit} className="newsletter-form" noValidate>
