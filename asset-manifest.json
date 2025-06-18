@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/SoundBath/static/css/main.3fc7dbbc.css",
-    "main.js": "/SoundBath/static/js/main.55c20939.js",
+    "main.css": "/SoundBath/static/css/main.1b978b4b.css",
+    "main.js": "/SoundBath/static/js/main.ff917dd5.js",
     "static/js/453.ed3810f9.chunk.js": "/SoundBath/static/js/453.ed3810f9.chunk.js",
     "static/media/gallery_image1.jpg": "/SoundBath/static/media/gallery_image1.70b5b26ae28d66f1e1fa.jpg",
     "static/media/story_image1.jpg": "/SoundBath/static/media/story_image1.70b5b26ae28d66f1e1fa.jpg",
     "static/media/homeImage.jpg": "/SoundBath/static/media/homeImage.cc207860dec3557bd4e0.jpg",
+    "static/media/logo.jpg": "/SoundBath/static/media/logo.a1d733c60154938ee10c.jpg",
     "static/media/gallery_image3.jpg": "/SoundBath/static/media/gallery_image3.ffe90a40ca51434818c7.jpg",
     "static/media/story_image3.jpg": "/SoundBath/static/media/story_image3.0756448b5d0e7720021f.jpg",
     "static/media/gallery_image7.jpg": "/SoundBath/static/media/gallery_image7.61a3ba7ddca53ba8bfe6.jpg",
@@ -15,14 +16,13 @@
     "static/media/gallery_image8.jpg": "/SoundBath/static/media/gallery_image8.31f186ac16a337d2b6e5.jpg",
     "static/media/gallery_image4.jpg": "/SoundBath/static/media/gallery_image4.a0749103dc0e5e840b71.jpg",
     "static/media/story_image2.jpg": "/SoundBath/static/media/story_image2.5e74751c2fd3d33a98ab.jpg",
-    "static/media/logo.jpg": "/SoundBath/static/media/logo.83407a40eb6d0503f9e1.jpg",
     "index.html": "/SoundBath/index.html",
-    "main.3fc7dbbc.css.map": "/SoundBath/static/css/main.3fc7dbbc.css.map",
-    "main.55c20939.js.map": "/SoundBath/static/js/main.55c20939.js.map",
+    "main.1b978b4b.css.map": "/SoundBath/static/css/main.1b978b4b.css.map",
+    "main.ff917dd5.js.map": "/SoundBath/static/js/main.ff917dd5.js.map",
     "453.ed3810f9.chunk.js.map": "/SoundBath/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fc7dbbc.css",
-    "static/js/main.55c20939.js"
+    "static/css/main.1b978b4b.css",
+    "static/js/main.ff917dd5.js"
   ]
 }
