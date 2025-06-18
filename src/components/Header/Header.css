@@ -5,19 +5,34 @@
   padding: 20px 40px;
   border-bottom: 1px solid #ccc;
   font-family: 'Georgia', serif;
+  flex-wrap: wrap;
 }
 
 .logo {
-  text-align: center;
+  display: flex;
+  align-items: center;
+  gap: 15px;
 }
 
-.logo h1 {
+.logo-img {
+  height: 60px;
+  width: auto;
+  border-radius: 6px;
+}
+
+.logo-text {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.logo-text h1 {
   font-size: 20px;
   letter-spacing: 1px;
   margin: 0;
 }
 
-.logo p {
+.logo-text p {
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 2px;

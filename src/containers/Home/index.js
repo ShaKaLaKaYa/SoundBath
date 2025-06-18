@@ -24,15 +24,15 @@ const Home = () => {
         </div>
 
         <section className="intro-text">
-          <h2>Rao's Sound Healing</h2>
+          <h2>Into Sound Healing</h2>
           <p>
-            At Rao’s Sound Healing, we offer a sanctuary for the mind and spirit
+            At Into Sound Healing, we offer a sanctuary for the mind and spirit
             in the midst of a fast-moving world. Rooted in the belief that sound
             is a powerful tool for restoration, our sessions are thoughtfully
             designed to help release stress, calm the nervous system, and invite
             a deep sense of peace. Whether you're navigating the pressures of
             daily life, recovering from burnout, or simply seeking stillness,
-            Rao’s Sound Healing offers a gentle yet profound path back to
+            Into Sound Healing offers a gentle yet profound path back to
             balance. Through curated sound journeys—using crystal bowls, gongs,
             and harmonic tones—we help you reconnect with yourself and create
             space for healing from within.
